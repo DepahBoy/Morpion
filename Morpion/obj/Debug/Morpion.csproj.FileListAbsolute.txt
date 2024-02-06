@@ -1,0 +1,7 @@
+D:\visual studio\Morpion\bin\Debug\Morpion.exe.config
+D:\visual studio\Morpion\bin\Debug\Morpion.exe
+D:\visual studio\Morpion\bin\Debug\Morpion.pdb
+D:\visual studio\Morpion\obj\Debug\Morpion.csproj.AssemblyReference.cache
+D:\visual studio\Morpion\obj\Debug\Morpion.csproj.CoreCompileInputs.cache
+D:\visual studio\Morpion\obj\Debug\Morpion.exe
+D:\visual studio\Morpion\obj\Debug\Morpion.pdb
